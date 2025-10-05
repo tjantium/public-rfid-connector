@@ -1,0 +1,10 @@
+{
+    "serial_port": "/dev/tty.usbserial-0001",
+    "baudrate": 115200,
+    "rf_power": 20.0,
+    "region": "China2",
+    "channel": 0,
+    "api_base_url": "https://36s3748yo1.execute-api.us-east-2.amazonaws.com/prod",
+    "rfid_endpoint": "/rfid",
+    "device_id": "raspberry_pi_001"
+}

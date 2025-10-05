@@ -8,7 +8,7 @@ from datetime import datetime
 
 # 🧾 Structured logging
 logging.basicConfig(
-    filename='/Users/thiwankajayasiri/iot-pj-aut/rpi-pkg/rfid_reader.log',
+    filename='rfid_reader.log',
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s'
 )
